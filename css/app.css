@@ -1,0 +1,31 @@
+
+.ativo{
+	background: #323232 !important;
+	
+}
+.ativo a{
+	color: #f1f1f1!important;
+}
+.espaco{
+	margin-right: 1%;
+}
+table.data-table{margin-bottom: -2px!important;}
+.sorting_asc i:before{
+content: "\f15d";
+}
+.sorting_desc i:before{
+content: "\f15e";
+}
+td a{-webkit-column-rule: #000;
+-moz-column-rule: #000;
+-o-column-rule: #000;
+column-rule: #000;}
+td a i{
+	margin-right: 5%;
+}
+td input{
+	width: 100%;
+	font-size: 12px;
+	padding: 3px;
+	border-radius: 4px;
+}
